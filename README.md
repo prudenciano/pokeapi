@@ -1,1 +1,3 @@
 # pokeapi
+
+* João Pedro Prudenciano
